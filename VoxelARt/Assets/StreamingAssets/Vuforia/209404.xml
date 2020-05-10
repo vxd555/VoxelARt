@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="webdziekanat-www" size="48.000000 48.000000" />
+    <ImageTarget name="kis-www" size="48.000000 48.000000" />
+    <ImageTarget name="isa-www" size="48.000000 48.000000" />
+    <ImageTarget name="politechnika-aktualnosci" size="48.000000 48.000000" />
+    <ImageTarget name="github-isa" size="48.000000 48.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="znaczniki12" size="48.000000 48.000000" />
+    <ImageTarget name="znaczniki11" size="48.000000 48.000000" />
+    <ImageTarget name="znaczniki10" size="48.000000 48.000000" />
+    <ImageTarget name="High_Capacity_Color_Barcode" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik4_cb" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik3_cb" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik2_cb" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik1_cb" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik4" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik3" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik2" size="50.000000 50.000000" />
+    <ImageTarget name="specjalny_znacznik1" size="50.000000 50.000000" />
+    <ImageTarget name="znaczniki9" size="50.000000 50.000000" />
+    <ImageTarget name="znaczniki8" size="50.000000 50.000000" />
+    <ImageTarget name="znaczniki7" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik6" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik5" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik4" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik3" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik2" size="50.000000 50.000000" />
+    <ImageTarget name="znacznik1" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
